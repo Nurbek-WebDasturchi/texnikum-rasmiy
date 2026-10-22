@@ -1,4 +1,4 @@
-.admin-bar { position: sticky; top: 0; z-index: 10; background: #fff; border-bottom: 1px solid var(--line); }
+.admin-bar { position: sticky; top: 0; z-index: 10; background: var(--surface); color: var(--text); border-bottom: 1px solid var(--line); }
 .admin-bar-in { display: flex; align-items: center; gap: 12px; height: var(--header); }
 .admin-bar-in strong { margin-right: auto; }
 .email { font-size: 0.88rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
