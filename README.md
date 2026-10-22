@@ -17,13 +17,13 @@ npm run build            # tsc + vite build
 
 ## Vercel sozlamalari (Settings → Environment Variables)
 
-| Nomi                                          | Izoh                           |
-| --------------------------------------------- | ------------------------------ |
-| `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` | Public qiymatlar               |
-| `TELEGRAM_APPLICATION_TOKEN`                  | Ariza yuboriladigan bot tokeni |
-| `TELEGRAM_FEEDBACK_TOKEN`                     | Fikr-mulohaza boti tokeni      |
-| `TELEGRAM_CHAT_IDS`                           | Vergul bilan: `id1,id2,id3`    |
-| `GEMINI_API_KEY`                              | Gemini API kaliti (server only) |
+| Nomi                                          | Izoh                                   |
+| --------------------------------------------- | -------------------------------------- |
+| `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` | Public qiymatlar                       |
+| `TELEGRAM_APPLICATION_TOKEN`                  | Ariza yuboriladigan bot tokeni         |
+| `TELEGRAM_FEEDBACK_TOKEN`                     | Fikr-mulohaza boti tokeni              |
+| `TELEGRAM_CHAT_IDS`                           | Vergul bilan: `id1,id2,id3`            |
+| `GEMINI_API_KEY`                              | Gemini API kaliti (server only)        |
 | `GEMINI_MODEL`                                | Ixtiyoriy, standart `gemini-3.8-flash` |
 
 ## Supabase bazasini qayta yaratish
