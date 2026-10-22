@@ -1,0 +1,83 @@
+{
+ "leaders": [
+  {
+   "name": "Xalmuratov Jasur Murotovich",
+   "role": "Direktor",
+   "img": "/img/people/ceo.webp",
+   "phone": "+998973570887",
+   "email": "xalmuratovjasur1987@gmail.com"
+  },
+  {
+   "name": "Izzat Matkarimov Avazboyivich",
+   "role": "Ishlab chiqarish boʻyicha direktor oʻrinbosari",
+   "img": "/img/people/urinbosar.webp",
+   "phone": "+998937743232",
+   "email": "amudaryotexnikum@gmail.com"
+  },
+  {
+   "name": "Yeshmurodov Sadulla O'razimbetovich",
+   "role": "Yoshlar bilan ishlash boʻyicha direktor oʻrinbosari",
+   "img": "/img/people/sadulla-aka.webp",
+   "phone": "+998885055537",
+   "email": "amudaryotexnikum@gmail.com"
+  }
+ ],
+ "kafedra": [
+  {
+   "name": "Allambergenov Shavkat Kamolovich",
+   "role": "Ta'lim sifati nazorati bo'limi mutaxassisi",
+   "img": "/img/people/shavkat-aka.webp",
+   "phone": "+998941463877"
+  },
+  {
+   "name": "Xalmuratova Feruza Ibragimovna",
+   "role": "Maxsus fanlar kafedra mudiri",
+   "img": "/img/people/xalmurodova-feruza.webp",
+   "phone": "+998997415624"
+  },
+  {
+   "name": "Kamalova Sharofat Djumabayevna",
+   "role": "Uslubchi",
+   "img": "/img/people/sharofat.webp",
+   "phone": "+998939360282"
+  },
+  {
+   "name": "Yuldasheva Manzuraxon Saliyevna",
+   "role": "Gumanitar fanlar kafedra mudiri",
+   "img": "/img/people/yuldasheva-manzuraxon-saliyevna.webp",
+   "phone": "+998883575153"
+  },
+  {
+   "name": "Norboyeva Rayhon Xolboyevna",
+   "role": "Aniq fanlar kafedrasi mudiri",
+   "img": "/img/people/norboyeva-rayhon-xolboyevna.webp",
+   "phone": "+998973538512"
+  }
+ ],
+ "teachers": [
+  {
+   "name": "Shomuratov Otabek Ulug'bek o'g'li",
+   "role": "Maxsus fanlar oʻqituvchisi",
+   "img": "/img/people/bro.webp",
+   "phone": "+998994544941"
+  },
+  {
+   "name": "Fazilat Qodirova",
+   "role": "Maxsus fanlar oʻqituvchisi",
+   "img": "/img/people/teacher-1.webp",
+   "phone": "+998990396297"
+  },
+  {
+   "name": "Qurbonboyeva Nodira",
+   "role": "Maxsus fanlar oʻqituvchisi",
+   "img": "/img/people/teacher-2.webp",
+   "phone": "+998884744234"
+  },
+  {
+   "name": "Bidosheva Saida Rajab qizi",
+   "role": "Informatika va AT fan oʻqituvchisi",
+   "img": "/img/people/teacher-5.webp",
+   "phone": "+998997384594"
+  }
+ ]
+}

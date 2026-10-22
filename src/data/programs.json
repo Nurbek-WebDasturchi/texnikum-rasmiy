@@ -1,0 +1,1603 @@
+[
+ {
+  "id": "9-kunduzgi",
+  "label": "9-sinf · Kunduzgi",
+  "note": "9-sinf bitiruvchilari uchun · Kunduzgi ta'lim",
+  "items": [
+   {
+    "id": "9-kunduzgi-avtomobillarni-tamirlash-va-ularga-xizmat-korsatish",
+    "title": "Avtomobillarni ta'mirlash va ularga xizmat ko'rsatish",
+    "img": "/img/programs/avtomobil.webp",
+    "short": "Avtomobillarni ta’mirlash va xizmat ko‘rsatish yo‘nalishida mashinalarni diagnostika qilish, ta'mirlash o‘rgatiladi. Bu kasb barqaror ish va zamonaviy mutaxassislikni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Avtomobillarni ta’mirlash va ularga xizmat ko‘rsatish — mashinalar dunyosining ustasi bo‘l!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnikaga qiziqsang, mashinalar bilan ishlashni xohlasang va real kasb egasi bo‘lishni istasang — bu yo‘nalish aynan sen uchun. Avtomobillarni ta’mirlash va xizmat ko‘rsatish — bu nafaqat motorlarni tuzatish, balki mashinalarni hayotiy va texnik jihatdan mukammal saqlash san’ati."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Avtomobil tizimlarini, dvigatel, transmissiya va elektr qismlarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Mashinalarga texnik xizmat ko‘rsatish va ta’mirlashni amalda o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Nosozliklarni aniqlash, diagnostika va muammolarni hal qilishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Zamonaviy texnologiyalar va servis usullaridan foydalanishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Mijozlarga xizmat ko‘rsatish va xavfsizlik qoidalarini tushunasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real mashinalar ustida ishlash orqali tezkor, aniqlik va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Avtomobil ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Servis bo‘yicha mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish bo‘yicha konsultant"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z shaxsiy servis markazingni ochish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Mashinalarni bil, muammolarni hal qil — hayot osonlashadi!"
+     },
+     {
+      "type": "p",
+      "text": "Avtomobillarni ta’mirlash va xizmat ko‘rsatish — bu doim talabga ega va barqaror kelajak kasbi"
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-elektromobillarga-texnik-xizmat-korsatish-va-tamirlash",
+    "title": "Elektromobillarga texnik xizmat ko'rsatish va ta'mirlash",
+    "img": "/img/programs/elektro-mobil.webp",
+    "short": "Elektromobillar — kelajak transporti! Ushbu yo‘nalishda sen zamonaviy elektromobillarning tuzilishi, batareya va elektr dvigatellar bilan ishlash, diagnostika va ta’mirlash o'rgatiladi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Elektromobillar — kelajak transporti!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen zamonaviy mashinalarga, texnologiyaga va innovatsiyalarga qiziqsang, elektromobillar bilan ishlashni xohlasang — bu yo‘nalish aynan sen uchun! Bugun elektromobil — trend, ertaga esa eng talabgir kasb."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobil tuzilishini chuqur o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Batareya tizimlari va ularning ishlash prinsipini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr dvigatellar, invertorlar va zaryadlash tizimlari bilan ishlaysan"
+     },
+     {
+      "type": "li",
+      "text": "Diagnostika qilish, nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobillarga texnik xizmat ko‘rsatish va ta’mirlashni amaliy mashg‘ulotlar orqali bajarasiz"
+     },
+     {
+      "type": "p",
+      "text": "Darslar zamonaviy uskunalar bilan olib boriladi, o‘quvchilar real elektromobillar ustida ishlashadi. Bu yo‘nalish seni oddiy usta emas, balki yuqori malakali mutaxassis qilib tayyorlaydi."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach sen"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobil ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik diagnostika mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Zaryadlash stansiyalari bo‘yicha mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "yoki avtomobil sanoatida zamonaviy kasb egasi bo‘lishing mumkin"
+     },
+     {
+      "type": "p",
+      "text": "Kelajak bugundan boshlanadi!"
+     },
+     {
+      "type": "p",
+      "text": "Elektromobillarga texnik xizmat ko‘rsatish va ta’mirlash — bu nafaqat kasb, bu barqaror va innovatsion kelajak sari qadam"
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-payvandlovchi",
+    "title": "Payvandlovchi",
+    "img": "/img/programs/payvandlovchi.webp",
+    "short": "Payvandlovchi yo‘nalishida metall qismlarni payvandlash, ulash va ta’mirlash amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb sanoat va qurilishda barqaror ish va doimiy talabni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Payvandlovchi — temirga jon beradigan kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen kuchli, aniq va texnik ishlarni yoqtirsang, qo‘lingdan ish kelsa va real hunar egasi bo‘lishni istasang — payvandlovchi kasbi aynan sen uchun. Bugun payvandchi — qurilish, sanoat va ishlab chiqarishning eng zarur mutaxassislaridan biri."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Payvandlash usullari (elektr, gaz va zamonaviy texnologiyalar)ni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Metall konstruktsiyalarni ulash, mustahkamlash va ta’mirlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Chizmalar bilan ishlash va aniq o‘lchovlarga rioya qilishni o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Sifat nazorati va xavfsizlik qoidalariga amal qilishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Ishlab chiqarish va qurilish maydonlarida amaliy tajriba to‘playsan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real sharoitda ishlashni, aniqlik va mas’uliyatni o‘rganadilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Payvandlovchi mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Qurilish va sanoat korxonalarida usta"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z hunaring bilan mustaqil daromad topish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Kuchli hunar — mustahkam kelajak!"
+     },
+     {
+      "type": "p",
+      "text": "Payvandlovchi — bu qo‘l mehnati va texnik bilim uyg‘unlashgan, doim talabga ega kasb"
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-elektrik",
+    "title": "Elektrik",
+    "img": "/img/programs/elektrik.webp",
+    "short": "Elektrik yo‘nalishida elektr tarmoqlarini o‘rnatish, sozlash va ta’mirlash amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb doimiy talabga ega va barqaror ishni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Elektrik — yorug‘lik va quvvatni boshqaradigan kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnikaga qiziqsang, simlar, tok va qurilmalar qanday ishlashini bilishni xohlasang hamda doim talabga ega hunar o‘rganishni istasang — elektrik kasbi aynan sen uchun. Elektriksiz hayotni tasavvur qilib bo‘lmaydi, demak bu kasb har doim kerak."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Elektr tarmoqlari va qurilmalarining tuzilishini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr montaj ishlari, ulash va sozlashni amalda bajarasan"
+     },
+     {
+      "type": "li",
+      "text": "Nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr sxemalarini o‘qish va ularga ishlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr xavfsizligi qoidalariga qat’iy amal qilishni o‘zlashtirasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real obyektlarda ishlashga tayyorlanib, aniqlik, mas’uliyat va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Elektrik mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Elektr montaj ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish xodimi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z mustaqil ishini yo‘lga qo‘yish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Tokni bilgan — hayotni yoritadi!"
+     },
+     {
+      "type": "p",
+      "text": "Elektrik — bu kuchli hunar, barqaror daromad va mustahkam kelajak garovi"
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-baliqchi",
+    "title": "Baliqchi",
+    "img": "/img/programs/baliqchilik.webp",
+    "short": "Baliqchi yo‘nalishida baliq ovlash, parvarishlash va suv havzalarida ishlash amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb barqaror daromad va real hunarni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Baliqchi — suv bilan mehnat, mehnatdan baraka!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen tabiatni sevsang, suv bilan ishlashni yoqtirsang va amaliy, daromadli kasb egallashni istasang — baliqchi kasbi aynan sen uchun. Baliqchilik — oziq-ovqat xavfsizligi va qishloq xo‘jaligining muhim yo‘nalishlaridan biri."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Baliq ovlash usullari va texnologiyalarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Baliq turlarini farqlash, saqlash va parvarishlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Suv havzalarida xavfsiz ishlash qoidalarini o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Baliq ovlash jihozlari va asbob-uskunalaridan to‘g‘ri foydalanishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Olingan mahsulotni saralash, saqlash va yetkazib berishni bilib olasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real suv havzalarida amaliy mashg‘ulotlarda qatnashib, sabr, aniqlik va mas’uliyatni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Baliqchi mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Baliqchilik xo‘jaligi xodimi"
+     },
+     {
+      "type": "li",
+      "text": "Suv xo‘jaligi sohasida ishchi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z baliqchilik faoliyatini yo‘lga qo‘yish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Suvdan rizq top — mehnating bilan faxrlan!"
+     },
+     {
+      "type": "p",
+      "text": "Baliqchi — bu tabiat bilan uyg‘un, doim talabga ega kasb"
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-issiqxona-va-parnik-xojaligi-labaranti",
+    "title": "Issiqxona va parnik xo'jaligi labaranti",
+    "img": "/img/programs/parnik.webp",
+    "short": "Issiqxona va parnik xo‘jaligi laboranti yo‘nalishida o‘simliklar rivoji, tuproq va suv tahlili hamda hosil sifatini nazorat qilish o‘rgatiladi. Bu kasb zamonaviy agrosohada muhim ahamiyatga ega.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Issiqxona va parnik xo‘jaligi laboranti — hosil sifatini nazorat qiluvchi mutaxassis!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen o‘simliklar, tabiat va aniq ishlarni yoqtirsang, hosil sifati va unumdorligini oshirishga hissa qo‘shishni istasang — bu yo‘nalish aynan sen uchun. Issiqxona va parnik xo‘jaligi laboranti — zamonaviy qishloq xo‘jaligining muhim bo‘g‘ini."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Issiqxona va parniklarda mikroiqlimni nazorat qilishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘simliklarning o‘sishi va rivojlanishini kuzatish va tahlil qilishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Tuproq, suv va o‘g‘itlar bilan bog‘liq laboratoriya ishlarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Hosil sifati, kasalliklar va zararkunandalarni aniqlashni o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Issiqxona uskunalari bilan ishlash va texnik xavfsizlik qoidalarini bilib olasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real issiqxona va parnik sharoitida ishlashadi, aniqlik, mas’uliyat va kuzatuvchanlikni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Issiqxona laboranti"
+     },
+     {
+      "type": "li",
+      "text": "Parnik xo‘jaligi mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Agro-laboratoriya xodimi"
+     },
+     {
+      "type": "p",
+      "text": "Qishloq xo‘jaligi va agrotexnologiya sohalarida barqaror kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Sifatli hosil — ilmli nazoratdan boshlanadi!"
+     },
+     {
+      "type": "p",
+      "text": "Issiqxona va parnik xo‘jaligi laboranti — bu ilm, tajriba va tabiat uyg‘unlashgan kelajak kasbi."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-asalarichi",
+    "title": "Asalarichi",
+    "img": "/img/programs/asalarichilik.webp",
+    "short": "Asalarichi yo‘nalishida ari boqish, ularning uyalarini parvarishlash va asal mahsulotlarini olish amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb foydali, barqaror va doim talabga ega.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Asalarichi — tabiiy shirinlik va sog‘lik saqlovchisi!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen tabiatni sevsang, o‘simliklar va hayvonlar bilan ishlashni yoqtirsang hamda foydali va barqaror kasb egallashni istasang — asalarichi yo‘nalishi aynan sen uchun. Asalarichilik — nafaqat shirin asal, balki sog‘liq va ekotizimni saqlashning muhim qismi."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Asal ari boqish, ularning parvarishi va uyalarini nazorat qilishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Ari hayoti va biologiyasini, turli ari turlarini bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Asalarichilik jihozlari va vositalaridan foydalanishni o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘simliklar bilan ishlash va polinatsiya jarayonini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Mahsulot sifatini nazorat qilish va xavfsizlik qoidalariga amal qilasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real asalarichilik sharoitida ishlashadi, mas’uliyat, sabr-toqat va aniqlikni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Asalarichi mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Asal va arichilik mahsulotlarini ishlab chiqaruvchi"
+     },
+     {
+      "type": "li",
+      "text": "Agro-ekologiya va qishloq xo‘jaligi sohasida ishchi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z asalarichilik xo‘jaligini yo‘lga qo‘yish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Tabiatni bil — shirinlik olib kel!"
+     },
+     {
+      "type": "p",
+      "text": "Asalarichi — bu tabiat bilan uyg‘un, barqaror va talab yuqori kasb."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-ormonchilik-va-kokalamzorlashtirish-labaranti",
+    "title": "O'rmonchilik va ko'kalamzorlashtirish labaranti",
+    "img": "/img/programs/ormonchilik.webp",
+    "short": "O‘rmonchilik va ko‘kalamzorlashtirish laboranti yo‘nalishiga o‘simliklar o‘sishini nazorat qilish, tuproq va ko‘chatlar bilan ishlash hamda yashil hududlarni parvarishlash kiradi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "O‘rmonchilik va ko‘kalamzorlashtirish laboranti — yashil muhitni ilm bilan asrovchi mutaxassis!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen tabiatni sevsang, o‘simliklar bilan ishlashni yoqtirsang va atrof-muhitni yanada yashil va chiroyli qilishga hissa qo‘shishni istasang — bu yo‘nalish aynan sen uchun. O‘rmonchilik va ko‘kalamzorlashtirish laboranti tabiatni muhofaza qilishda muhim rol o‘ynaydi."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Daraxt va manzarali o‘simliklarning o‘sishi va rivojlanishini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Tuproq, urug‘ va ko‘chatlar bilan bog‘liq laboratoriya ishlarini bajarasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmon va yashil hududlarni barpo etish hamda parvarishlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘simlik kasalliklari va zararkunandalarni aniqlashni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Ekologiya va ko‘kalamzorlashtirishda xavfsizlik qoidalariga amal qilasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real yashil hududlar, pitomniklar va laboratoriyalarda ishlashadi, aniqlik va mas’uliyatni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmonchilik laboranti"
+     },
+     {
+      "type": "li",
+      "text": "Ko‘kalamzorlashtirish bo‘yicha mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Ekologiya va atrof-muhit muhofazasi xodimi"
+     },
+     {
+      "type": "p",
+      "text": "Qishloq xo‘jaligi va tabiatni muhofaza qilish sohalarida barqaror kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Bugun ekilgan ko‘chat — ertangi hayot!"
+     },
+     {
+      "type": "p",
+      "text": "O‘rmonchilik va ko‘kalamzorlashtirish laboranti — bu tabiat va ilm uyg‘unlashgan kelajak kasbi."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-tikuvchi",
+    "title": "Tikuvchi",
+    "img": "/img/programs/tikuvchi.webp",
+    "short": "Tikuvchi yo‘nalishida kiyim tikish, ta’mirlash va dizayn asoslari amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb ijodiy va barqaror daromad manbai hisoblanadi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Tikuvchi — matodan san’at yaratadigan kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen ijodkor bo‘lsang, dizayn va moda seni qiziqtirsa hamda qo‘ling bilan chiroyli buyumlar yaratishni istasang — tikuvchi kasbi aynan sen uchun. Tikuvchilik — bu faqat kiyim tikish emas, bu did, aniqlik va mehnat uyg‘unligidir."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Tikuvchilik asoslari va texnikalarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Gazlama turlari bilan ishlash va to‘g‘ri tanlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Andoza olish, bichish va tikishni amalda bajarasan"
+     },
+     {
+      "type": "li",
+      "text": "Kiyimlarni ta’mirlash va moslashtirishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Dizayn elementlari va zamonaviy uslublar bilan tanishasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real buyurtmalar asosida ishlashni, aniqlik va ijodiy fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Tikuvchi mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Tikuv sexi xodimi"
+     },
+     {
+      "type": "li",
+      "text": "Moda va dizayn sohasida ishchi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z shaxsiy tikuvchilik ustaxonasini ochish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Ijod qil, tik, o‘z uslubingni yarat!"
+     },
+     {
+      "type": "p",
+      "text": "Tikuvchi — bu san’at va hunar uyg‘unlashgan, doim talabga ega kasb."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-quyosh-panellarini-ornatish-va-ularga-texnik-xizmat-korsati",
+    "title": "Quyosh panellarini o'rnatish va ularga texnik xizmat ko'rsatish",
+    "img": "/img/programs/quyosh-panellari.webp",
+    "short": "Quyosh panellarini o‘rnatish va ularga texnik xizmat ko‘rsatish yo‘nalishida panellarni montaj qilish, sozlash va servis ishlari amaliy mashg‘ulotlar orqali o‘rgatiladi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Quyosh panellarini o‘rnatish va ularga texnik xizmat ko‘rsatish — toza energiya ustasi bo‘l!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnologiya, elektr va ekologiyaga qiziqsang hamda zamonaviy, kelajagi bor kasb egallashni istasang — bu yo‘nalish aynan sen uchun. Quyosh energiyasi bugun nafaqat muqobil manba, balki eng tez rivojlanayotgan sohalardan biri."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Quyosh panellari va ularning ishlash prinsipini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Panellarni to‘g‘ri o‘rnatish, ulash va sozlashni amalda bajarasan"
+     },
+     {
+      "type": "li",
+      "text": "Invertorlar, akkumulyatorlar va elektr tizimlari bilan ishlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish, nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr va balandlikda ishlash xavfsizligi qoidalariga amal qilasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real obyektlarda quyosh panellari bilan ishlashadi, aniqlik, mas’uliyat va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Quyosh panellari montajchisi"
+     },
+     {
+      "type": "li",
+      "text": "Qayta tiklanuvchi energiya mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish ustasi"
+     },
+     {
+      "type": "li",
+      "text": "yoki energetika sohasida zamonaviy kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Quyoshdan quvvat ol — kelajakni yorit!"
+     },
+     {
+      "type": "p",
+      "text": "Quyosh panellarini o‘rnatish va ularga texnik xizmat ko‘rsatish — bu ekologiya va texnologiyani birlashtirgan kelajak kasbi."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-elevator-tegirmon-yorma-va-omuxta-yem-ishlab-chiqarish",
+    "title": "Elevator, tegirmon, yorma va omuxta yem ishlab chiqarish",
+    "img": "/img/programs/elevator-omuxta.webp",
+    "short": "Elevator, tegirmon, yorma va omuxta yem ishlab chiqarish yo‘nalishida donni saqlash, qayta ishlash va sifatli mahsulot tayyorlash jarayonlari amaliy mashg‘ulotlar orqali o‘rgatiladi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Elevator, tegirmon, yorma va omuxta yem ishlab chiqarish — donni qiymatga aylantiradigan kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnika, ishlab chiqarish va oziq-ovqat sanoatiga qiziqsang hamda real va barqaror kasb egallashni istasang — bu yo‘nalish aynan sen uchun. Donni qabul qilishdan tortib, tayyor mahsulotgacha bo‘lgan jarayonni bilish bugun juda katta ahamiyatga ega."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Elevator xo‘jaligi va donni saqlash texnologiyalarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Tegirmon uskunalari va ularning ishlash prinsipini bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Yorma va un mahsulotlarini ishlab chiqarish jarayonlarini o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Mahsulot sifati nazorati va texnologik jarayonlarni tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Uskunalarga texnik xizmat ko‘rsatish va xavfsizlik qoidalariga amal qilasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real ishlab chiqarish sharoitlariga yaqin muhitda ishlashadi, aniqlik va mas’uliyatni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Elevator operatori"
+     },
+     {
+      "type": "li",
+      "text": "Tegirmon va yorma ishlab chiqarish mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Omuxta yem ishlab chiqarish ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Oziq-ovqat sanoatida doim talabga ega mutaxassis bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Donni asra — sifatni yarat!"
+     },
+     {
+      "type": "p",
+      "text": "Elevator, tegirmon, yorma va omuxta yem ishlab chiqarish — bu oziq-ovqat xavfsizligi uchun muhim, barqaror kelajak kasbi."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-qurilish-ishlari-ishchisi",
+    "title": "Qurilish ishlari ishchisi",
+    "img": "/img/programs/qurilish.webp",
+    "short": "Qurilish ishlari ishchisi yo‘nalishida qurilish va ta’mirlashning asosiy turlari amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb barqaror ish va real hunarni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Qurilish ishlari ishchisi — shaharlar va kelajakni bunyod etuvchi kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen jismoniy mehnatdan qo‘rqmasang, aniq va mas’uliyatli ishlarni yoqtirsang hamda real hunar egallashni istasang — bu yo‘nalish aynan sen uchun. Qurilish — har doim rivojlanib boradigan va doim ish bor soha."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Qurilish ishlarining asosiy turlari bilan tanishasan"
+     },
+     {
+      "type": "li",
+      "text": "Beton, g‘isht, suvoq va pardozlash ishlarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘lchov, belgilash va qurilish asboblaridan foydalanishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Mehnat muhofazasi va texnika xavfsizligi qoidalariga amal qilasan"
+     },
+     {
+      "type": "li",
+      "text": "Jamoa bilan ishlash va ishni sifatli bajarishni o‘rganasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real qurilish obyektlariga yaqin sharoitda ishlashadi, chidamlilik, aniqlik va mas’uliyatni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Qurilish ishchisi"
+     },
+     {
+      "type": "li",
+      "text": "Qurilish brigadasi a’zosi"
+     },
+     {
+      "type": "li",
+      "text": "Ta’mirlash va pardozlash ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Qurilish sohasida barqaror daromadli kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Mehnat qil — iz qoldir!"
+     },
+     {
+      "type": "p",
+      "text": "Qurilish ishlari ishchisi — bu jamiyat rivoji uchun muhim, doim talabga ega kasb."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-qishloq-xojaligi-mashinalarini-tamirlash-chilangari",
+    "title": "Qishloq xo'jaligi mashinalarini ta'mirlash chilangari",
+    "img": "/img/programs/qishloq-mexanik.webp",
+    "short": "Qishloq xo‘jaligiga mashinalarini ta’mirlash chilangari yo‘nalishida traktor va kombaynlarni ta’mirlash, sozlash hamda texnik xizmat ko‘rsatish kiradi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Qishloq xo‘jaligi mashinalarini ta’mirlash chilangari — texnika ishlasa, hosil baraka topadi!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnikani yoqtirsang, mexanizmlarning qanday ishlashini bilishni istasang va real, zarur kasb egallashni xohlasang — bu yo‘nalish aynan sen uchun. Traktor, kombayn va boshqa qishloq xo‘jaligi mashinalarisiz zamonaviy dehqonchilikni tasavvur qilib bo‘lmaydi."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Qishloq xo‘jaligi texnikalarining tuzilishini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Traktor, kombayn va agregatlarni ta’mirlash hamda sozlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Mexanik uzellar, gidravlika va uzatmalar bilan ishlashni o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Texnika xavfsizligi va mehnat muhofazasi qoidalariga amal qilasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real qishloq xo‘jaligi texnikalari ustida ishlashadi, aniqlik, mas’uliyat va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Qishloq xo‘jaligi texnikasi chilangari"
+     },
+     {
+      "type": "li",
+      "text": "Ta’mirlash ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish mutaxassisi"
+     },
+     {
+      "type": "p",
+      "text": "Qishloq xo‘jaligi va servis sohalarida barqaror ish o‘rniga ega bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Texnika soz bo‘lsa — hosil mo‘l bo‘ladi!"
+     },
+     {
+      "type": "p",
+      "text": "Qishloq xo‘jaligi mashinalarini ta’mirlash chilangari — bu dehqonchilik rivoji uchun muhim, doim talabga ega kasb."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-oqava-suv-va-suv-taminoti-tizimlaridan-foydalanish-va-monta",
+    "title": "Oqava suv va suv ta'minoti tizimlaridan foydalanish va montaj qilish ustasi",
+    "img": "/img/programs/oqava-suv.webp",
+    "short": "Oqava suv va suv ta’minoti tizimlaridan foydalanish va montaj qilish ustasi yo‘nalishiga suv tizimlarini o‘rnatish.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Oqava suv va suv ta’minoti tizimlaridan foydalanish va montaj qilish ustasi — hayotiy quvvat ustasi!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnika va suv tizimlariga qiziqsang, odamlar hayotida toza suv ta’minotini ta’minlashni xohlasang va amaliy kasb egallashni istasang — bu yo‘nalish aynan sen uchun. Suv hayotdir, va bu kasb — jamiyat uchun muhim, doim talabga ega kasblardan biridir."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Suv ta’minoti va oqava suv tizimlari asoslarini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Suv quvurlari, nasoslar va aralash tizimlarni montaj qilishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Tizimlarni texnik xizmat ko‘rsatish, nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Suv sifati va xavfsizlik qoidalarini nazorat qilishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Jamoa bilan ishlash va tizimlarni samarali boshqarishni o‘zlashtirasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real suv ta’minoti va oqava suv tizimlari bilan ishlashadi, aniqlik, mas’uliyat va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Suv ta’minoti va oqava suv tizimlari ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Suv va kanalizatsiya sohasida ishchi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z montaj va servis faoliyatini boshlash imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Toza suvni boshqar — hayotni yorit!"
+     },
+     {
+      "type": "p",
+      "text": "Oqava suv va suv ta’minoti tizimlaridan foydalanish va montaj qilish ustasi — bu jamiyat uchun zarur va doim talabga ega kasb."
+     }
+    ]
+   },
+   {
+    "id": "9-kunduzgi-nasos-va-nasos-stansiyalariga-xizmat-korsatish-va-tamirlash",
+    "title": "Nasos va nasos stansiyalariga xizmat ko'rsatish va ta'mirlash chilangari",
+    "img": "/img/programs/nasos.webp",
+    "short": "Bu yo‘nalishida nasoslarni o‘rnatish, ta’mirlash va texnik xizmat ko‘rsatish amaliy mashg‘ulotlar orqali o‘rgatiladi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Nasos va nasos stansiyalariga xizmat ko‘rsatish va ta’mirlash chilangari — suv va energiya ishchisi!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnika va mexanizmga qiziqsang, nosozliklarni aniqlash va ularni hal qilishni yoqtirsang hamda amaliy, doim talabga ega kasb egallashni istasang — bu yo‘nalish aynan sen uchun. Nasos stansiyalari nafaqat suv ta’minoti, balki sanoat va qishloq xo‘jaligi uchun ham muhim tizimdir."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Nasoslar, nasos stansiyalari va ularning ishlash prinsipini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Mexanik uzellar, elektr motorlar va boshqa texnik qismlarni ta’mirlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Nosozliklarni aniqlash va tezkor bartaraf etish amaliyotini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish va xavfsizlik qoidalariga amal qilishni o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Jamoa bilan ishlash va tizimlarni samarali boshqarishni o‘rganasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real nasos stansiyalari va uskunalar bilan ishlashadi, aniqlik, mas’uliyat va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Nasos va nasos stansiyalari ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Sanoat va suv ta’minoti sohasida ishchi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z mustaqil xizmat ko‘rsatish faoliyatini yo‘lga qo‘yish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Suv tizimlari ishlasa — hayot oqadi!"
+     },
+     {
+      "type": "p",
+      "text": "Nasos va nasos stansiyalariga xizmat ko‘rsatish va ta’mirlash chilangari — bu doim talabga ega va barqaror kasb."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "11-kunduzgi",
+  "label": "11-sinf · Kunduzgi",
+  "note": "11-sinf bitiruvchilari uchun · Kunduzgi ta'lim",
+  "items": [
+   {
+    "id": "11-kunduzgi-kompyuter-tizimlari-va-majmualari",
+    "title": "Kompyuter tizimlari va majmualari",
+    "img": "/img/programs/computer-science.webp",
+    "short": "Kompyuter tizimlari va katta-katta tizimlar qanday qurilganini o'rganasiz va ITga birinchi qadamni qo'yasiz.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Agar sen texnologiyaga qiziqsang, kompyuterlar qanday ishlashini bilishni xohlasang va kelajakda IT sohasida kuchli mutaxassis bo‘lishni orzu qilsang — bu yo‘nalish aynan sen uchun!"
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Kompyuter va noutbuklarning ichki tuzilishini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Operatsion tizimlar qanday ishlashini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Tarmoqlar, serverlar va internet asoslarini bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Kompyuterlarni yig‘ish, sozlash va ta’mirlashni amalda bajarasiz"
+     },
+     {
+      "type": "li",
+      "text": "Zamonaviy texnologiyalar bilan ishlashni o‘rganib, real kasb egasi bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar faqat nazariya emas, ko‘proq amaliy mashg‘ulotlar asosida o‘tiladi. O‘zing qo‘ling bilan kompyuter yig‘asan, muammolarni topib hal qilasan va texnik fikrlashingni rivojlantirasan."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "IT mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "Tizim administratori"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish ustasi"
+     },
+     {
+      "type": "p",
+      "text": "yoki keyinchalik dasturchilik va boshqa IT yo‘nalishlarga oson o‘tish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Bugun o‘rgan — ertaga kuchli mutaxassis bo‘l!"
+     },
+     {
+      "type": "p",
+      "text": "Kompyuter tizimlari va majmualari — bu shunchaki yo‘nalish emas, bu kelajakka ochilgan eshik 🔥"
+     }
+    ]
+   },
+   {
+    "id": "11-kunduzgi-elektromobillarga-texnik-xizmat-korsatish-va-tamirlash",
+    "title": "Elektromobillarga texnik xizmat ko'rsatish va ta'mirlash",
+    "img": "/img/programs/elektro-mobil.webp",
+    "short": "Elektromobillar — kelajak transporti! Ushbu yo‘nalishda sen zamonaviy elektromobillarning tuzilishi, batareya va elektr dvigatellar bilan ishlash, diagnostika va ta’mirlashni o‘rganasan.",
+    "blocks": [
+     {
+      "type": "li",
+      "text": "Elektromobillar — kelajak transporti!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen zamonaviy mashinalarga, texnologiyaga va innovatsiyalarga qiziqsang, elektromobillar bilan ishlashni xohlasang — bu yo‘nalish aynan sen uchun! Bugun elektromobil — trend, ertaga esa eng talabgir kasb."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobil tuzilishini chuqur o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Batareya tizimlari va ularning ishlash prinsipini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektr dvigatellar, invertorlar va zaryadlash tizimlari bilan ishlaysan"
+     },
+     {
+      "type": "li",
+      "text": "Diagnostika qilish, nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobillarga texnik xizmat ko‘rsatish va ta’mirlashni amaliy mashg‘ulotlar orqali bajarasiz"
+     },
+     {
+      "type": "p",
+      "text": "Darslar zamonaviy uskunalar bilan olib boriladi, o‘quvchilar real elektromobillar ustida ishlashadi. Bu yo‘nalish seni oddiy usta emas, balki yuqori malakali mutaxassis qilib tayyorlaydi."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach sen"
+     },
+     {
+      "type": "li",
+      "text": "Elektromobil ustasi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik diagnostika mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Zaryadlash stansiyalari bo‘yicha mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "yoki avtomobil sanoatida zamonaviy kasb egasi bo‘lishing mumkin"
+     },
+     {
+      "type": "p",
+      "text": "Kelajak bugundan boshlanadi!"
+     },
+     {
+      "type": "p",
+      "text": "Elektromobillarga texnik xizmat ko‘rsatish va ta’mirlash — bu nafaqat kasb, bu barqaror va innovatsion kelajak sari qadam ⚡🔥"
+     }
+    ]
+   },
+   {
+    "id": "11-kunduzgi-fermer-xojaligini-boshqarish",
+    "title": "Fermer xo'jaligini boshqarish",
+    "img": "/img/programs/fermer-xojaligi.webp",
+    "short": "Fermer xo‘jaligini boshqarish yo‘nalishida mahsulot yetishtirish, resurslarni samarali boshqarish va agro-biznesni rivojlantirish amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb barqaror ish va zamonaviy agrar sohada talab yuqori.",
+    "blocks": [
+     {
+      "type": "li",
+      "text": "Fermer xo‘jaligini boshqarish — yerda boshlanib, daromadda yakunlanadi!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen tabiatni sevsang, yer bilan ishlashni xohlasang va o‘z biznesingni yuritishni orzu qilsang — bu yo‘nalish aynan sen uchun. Fermer xo‘jaligini boshqarish — bu faqat ekish yoki yig‘im-terim emas, bu reja, hisob-kitob va zamonaviy boshqaruv demakdir."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Fermer xo‘jaligini tashkil etish va boshqarishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Ekinlar va chorvachilik asoslarini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Sug‘orish, yerga ishlov berish va texnikalardan samarali foydalanishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Xarajat, foyda, rejalashtirish va hisob-kitob yuritishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Mahsulotni saqlash, qayta ishlash va bozorga chiqarish jarayonlarini tushunasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real fermer xo‘jaliklari misolida ishlashadi, zamonaviy agrotexnologiyalar bilan tanishadilar va mustaqil qaror qabul qilishni o‘rganadilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Fermer xo‘jaligi rahbari"
+     },
+     {
+      "type": "li",
+      "text": "Agro-menejer"
+     },
+     {
+      "type": "li",
+      "text": "Qishloq xo‘jaligi mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z shaxsiy fermer biznesini yo‘lga qo‘yish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Bugungi mehnat — ertangi baraka!"
+     },
+     {
+      "type": "p",
+      "text": "Fermer xo‘jaligini boshqarish — bu yer bilan ishlash orqali barqaror daromad va mustahkam kelajak sari yo‘l"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "11-dual",
+  "label": "11-sinf · Dual",
+  "note": "11-sinf bitiruvchilari uchun · Dual ta'lim",
+  "items": [
+   {
+    "id": "11-dual-nasos-stansiyalari-va-nasos-qurilmalari-mashinisti",
+    "title": "Nasos stansiyalari va nasos qurilmalari mashinisti",
+    "img": "/img/programs/nasos.webp",
+    "short": "Nasos stansiyalari va nasos qurilmalari mashinisti yo‘nalishida suv uzatish tizimlarini boshqarish, nasoslarni sozlash va ta’mirlash amaliy mashg‘ulotlar orqali o‘rgatiladi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Nasos stansiyalari va nasos qurilmalari mashinisti — hayot oqimini boshqaradigan kasb!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen texnikaga qiziqsang, mexanizmlarning qanday ishlashini bilishni xohlasang va muhim, mas’uliyatli kasb egasi bo‘lishni istasang — bu yo‘nalish aynan sen uchun. Nasos stansiyalari suv, energetika va qishloq xo‘jaligining yuragi hisoblanadi."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Nasos stansiyalari va qurilmalarining tuzilishini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Suv uzatish va bosim tizimlarining ishlash prinsipini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Nasoslarni ishga tushirish, to‘xtatish va nazorat qilishni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish, nosozliklarni aniqlash va bartaraf etishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Xavfsizlik qoidalari va mehnat muhofazasiga qat’iy rioya qilishni amalda o‘zlashtirasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real nasos qurilmalari bilan ishlashadi, mas’uliyat, aniqlik va texnik fikrlashni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Nasos stansiyasi mashinisti"
+     },
+     {
+      "type": "li",
+      "text": "Suv xo‘jaligi mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Texnik xizmat ko‘rsatish ustasi"
+     },
+     {
+      "type": "p",
+      "text": "Energetika va irrigatsiya sohalarida barqaror ish o‘rniga ega bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Suv bo‘lsa — hayot bor!"
+     },
+     {
+      "type": "p",
+      "text": "Nasos stansiyalari va nasos qurilmalari mashinisti — bu jamiyat uchun zarur, doimiy talabga ega kasb"
+     }
+    ]
+   },
+   {
+    "id": "11-dual-kutubxonashunoslik-va-bibliografiya",
+    "title": "Kutubxonashunoslik va bibliografiya",
+    "img": "/img/programs/kutubxonachi.webp",
+    "short": "Kutubxonashunoslik va bibliografiya yo‘nalishida kitoblar va axborot manbalarini tartiblash o‘rgatiladi. Bu yo‘nalish bilim va madaniyat sohasida barqaror kasbni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Kutubxonashunoslik va bibliografiya — bilimlar bilan ishlash san’ati!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen kitoblarni sevsang, tartib, izlanish va bilim bilan ishlash seni qiziqtirsa, ma’lumotlar olamida yo‘l ko‘rsatuvchi mutaxassis bo‘lishni istasang — bu yo‘nalish aynan sen uchun. Kutubxonashunoslik va bibliografiya — bu faqat kitob berish emas, bu bilimni topish, saqlash va yetkazish san’atidir."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Kutubxona ishining asoslari va tizimini o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Kitoblar, hujjatlar va elektron manbalarni tartiblashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Bibliografik izlanish, ma’lumot qidirish va tahlil qilishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Elektron kutubxonalar va raqamli kataloglar bilan ishlaysan"
+     },
+     {
+      "type": "li",
+      "text": "O‘quvchilar va foydalanuvchilar bilan samarali muloqot qilishni o‘zlashtirasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real kutubxonalar misolida ishlashadi, axborot bilan ishlash madaniyati va aniqlikni rivojlantiradilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Kutubxonachi"
+     },
+     {
+      "type": "li",
+      "text": "Bibliograf"
+     },
+     {
+      "type": "li",
+      "text": "Axborot-resurs markazi mutaxassisi"
+     },
+     {
+      "type": "p",
+      "text": "Ta’lim muassasalari va madaniyat sohalarida barqaror kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Bilim — eng katta boylik!"
+     },
+     {
+      "type": "p",
+      "text": "Kutubxonashunoslik va bibliografiya — bu jamiyatda doimo qadrlanadigan, ma’naviy va barqaror kelajak sari yetaklovchi kasb."
+     }
+    ]
+   },
+   {
+    "id": "11-dual-ormonchilik",
+    "title": "O'rmonchilik",
+    "img": "/img/programs/ormonchilik.webp",
+    "short": "O‘rmonchilik yo‘nalishida o‘rmonlarni barpo etish, parvarishlash va muhofaza qilish amaliy mashg‘ulotlar orqali o‘rgatiladi. Bu kasb tabiatni asrash va ekologik muvozanatni saqlashda muhim ahamiyatga ega.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "O‘rmonchilik — tabiatni asrab, kelajakni barpo et!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen tabiatni sevsang, daraxtlar, o‘simliklar va atrof-muhit bilan ishlashni xohlasang hamda yer yuzini yashil saqlashga hissa qo‘shishni istasang — bu yo‘nalish aynan sen uchun. O‘rmonchilik — bu nafaqat kasb, balki katta mas’uliyat va ezgu missiya."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmonlarni barpo etish, parvarishlash va muhofaza qilishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Daraxt va o‘simlik turlarini tanish va parvarishlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmon yong‘inlarining oldini olish va tabiatni asrash choralarini tushunasan"
+     },
+     {
+      "type": "li",
+      "text": "Ekologiya va atrof-muhit muhofazasi asoslarini o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmon xo‘jaligida ishlatiladigan texnika va jihozlar bilan tanishasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real o‘rmon hududlarida amaliy mashg‘ulotlarda qatnashib, tabiat bilan ishlash tajribasini to‘plashadi."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmon xo‘jaligi mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "O‘rmon parvarishi va muhofazasi xodimi"
+     },
+     {
+      "type": "li",
+      "text": "Ekologiya sohasida mutaxassis"
+     },
+     {
+      "type": "p",
+      "text": "yoki tabiatni muhofaza qilish yo‘nalishlarida barqaror kasb egasi bo‘lish imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Bugun ekilgan daraxt — ertangi hayot!"
+     },
+     {
+      "type": "p",
+      "text": "O‘rmonchilik — bu tabiatni asrab-avaylash orqali barqaror va sog‘lom kelajak sari yo‘l"
+     }
+    ]
+   },
+   {
+    "id": "11-dual-baliqchilik-xojaligini-tashkil-etish-texnologiyasi",
+    "title": "Baliqchilik xo'jaligini tashkil etish texnologiyasi",
+    "img": "/img/programs/baliqchilik-tech.webp",
+    "short": "Baliqchilik xo‘jaligini tashkil etish texnologiyasi yo‘nalishida baliq yetishtirish, parvarishlash va xo‘jalikni boshqarish o‘rgatiladi. Bu yo‘nalish barqaror daromad kasbni ta’minlaydi.",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Baliqchilik xo‘jaligini tashkil etish texnologiyasi — suvdan daromad, mehnatdan baraka!"
+     },
+     {
+      "type": "p",
+      "text": "Agar sen suv xo‘jaligi, tabiat va biznesga qiziqsang hamda o‘z daromadli xo‘jaligingni yo‘lga qo‘yishni istasang — bu yo‘nalish aynan sen uchun. Baliqchilik — bugungi kunda tez rivojlanayotgan va talab yuqori bo‘lgan sohalardan biri."
+     },
+     {
+      "type": "h",
+      "text": "Bu yo‘nalishda sen"
+     },
+     {
+      "type": "li",
+      "text": "Baliqchilik xo‘jaligini tashkil etish va boshqarishni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Sun’iy hovuzlar va suv muhitini to‘g‘ri tayyorlashni bilib olasan"
+     },
+     {
+      "type": "li",
+      "text": "Baliq turlari, ularni boqish va parvarishlash texnologiyalarini o‘zlashtirasan"
+     },
+     {
+      "type": "li",
+      "text": "Ozuqa, xarajat va foydani hisoblashni o‘rganasan"
+     },
+     {
+      "type": "li",
+      "text": "Kasalliklarning oldini olish va mahsulot sifatini nazorat qilishni bilib olasan"
+     },
+     {
+      "type": "p",
+      "text": "Darslar nazariya va amaliyot uyg‘unligida olib boriladi. O‘quvchilar real baliqchilik xo‘jaliklari misolida ishlashadi, zamonaviy texnologiyalar bilan tanishib, mustaqil qaror qabul qilishni o‘rganadilar."
+     },
+     {
+      "type": "h",
+      "text": "Bitirgach esa"
+     },
+     {
+      "type": "li",
+      "text": "Baliqchilik xo‘jaligi mutaxassisi"
+     },
+     {
+      "type": "li",
+      "text": "Xususiy baliqchilik xo‘jaligi rahbari"
+     },
+     {
+      "type": "li",
+      "text": "Qishloq xo‘jaligi va suv xo‘jaligi sohasida mutaxassis"
+     },
+     {
+      "type": "li",
+      "text": "yoki o‘z daromadli biznesini boshlash imkoniga ega bo‘lasan"
+     },
+     {
+      "type": "p",
+      "text": "Suvni to‘g‘ri boshqar — baraka o‘zi keladi!"
+     },
+     {
+      "type": "p",
+      "text": "Baliqchilik xo‘jaligini tashkil etish texnologiyasi — bu tabiat va texnologiyani uyg‘unlashtirgan kelajak kasbi"
+     }
+    ]
+   }
+  ]
+ }
+]

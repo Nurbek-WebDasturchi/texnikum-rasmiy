@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1-sonli kasb-hunar texnikumi — Amudaryo tumani</title>
+    <meta
+      name="description"
+      content="Amudaryo tumani 1-sonli kasb-hunar texnikumi rasmiy sayti: yo‘nalishlar, yangiliklar, jamoa va onlayn ariza." />
+    <meta name="theme-color" content="#f5f7fb" />
+    <meta
+      property="og:title"
+      content="1-sonli kasb-hunar texnikumi — Amudaryo tumani" />
+    <meta property="og:image" content="/img/logo.png" />
+    <link rel="icon" href="/public/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/img/logo.png" />
+    <link rel="preload" as="image" href="/img/programs/computer-science.webp" />
+    <script>
+      try {
+        const t = localStorage.getItem("kollej-theme");
+        document.documentElement.dataset.theme =
+          t === "light" || t === "dark"
+            ? t
+            : matchMedia("(prefers-color-scheme: dark)").matches
+              ? "dark"
+              : "light";
+      } catch {
+        document.documentElement.dataset.theme = "light";
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

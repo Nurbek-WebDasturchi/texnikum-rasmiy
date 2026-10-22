@@ -1,0 +1,20 @@
+.admin-bar { position: sticky; top: 0; z-index: 10; background: #fff; border-bottom: 1px solid var(--line); }
+.admin-bar-in { display: flex; align-items: center; gap: 12px; height: var(--header); }
+.admin-bar-in strong { margin-right: auto; }
+.email { font-size: 0.88rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.admin-grid { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: 24px; padding-block: 24px 64px; align-items: start; }
+.admin-grid h2 { font-size: 1.15rem; margin-bottom: 16px; }
+.admin-grid .list-title { margin: 0; padding-bottom: 8px; }
+.preview { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 10px; margin-bottom: 14px; }
+.row { display: flex; align-items: center; gap: 12px; padding: 12px 20px; border-top: 1px solid var(--line); }
+.row img { width: 72px; height: 54px; flex: none; object-fit: cover; border-radius: 8px; background: #e2e5ec; }
+.row-main { flex: 1; min-width: 0; display: grid; }
+.row-main b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row-main span { font-size: 0.85rem; }
+.login { min-height: 100dvh; display: grid; place-items: center; padding: 16px; }
+.login-card { width: min(400px, 100%); display: grid; gap: 4px; }
+.login-card h1 { font-size: 1.5rem; }
+.login-card .muted { margin-bottom: 12px; }
+.login-card .back { margin-top: 12px; text-align: center; font-size: 0.9rem; color: var(--muted); }
+@media (max-width: 960px) { .admin-grid { grid-template-columns: 1fr; } .email { display: none; } }
+@media (max-width: 480px) { .row { padding-inline: 12px; flex-wrap: wrap; } .row-main { flex-basis: calc(100% - 90px); } }
